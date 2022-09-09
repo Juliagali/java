@@ -25,8 +25,8 @@ idade for =-99. (WHILE)*/
 			}		
 		}
 		
-		System.out.println("\nA quantidade de pessoas com menos de 21 anos é de: " + menos21);
-		System.out.println("A quantidade de pessoas com mais de 50 anos é de: " + mais50);
+		System.out.println("\nA quantidade de pessoas com menos de 21 anos de idade é de: " + menos21);
+		System.out.println("A quantidade de pessoas com mais de 50 anos de idade é de: " + mais50);
 		
 		
 	}
